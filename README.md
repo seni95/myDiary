@@ -1,2 +1,0 @@
-# myDiary
-Created with CodeSandbox
